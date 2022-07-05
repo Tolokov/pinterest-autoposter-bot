@@ -1,6 +1,9 @@
 
 Bot to post images from Basicdecor to the Punterest board (Python 3.10)
 
+https://www.pinterest.ru/basicdecorart/_created/
+
+
 ---
 
 WARNING!!! The first run will download about 7gb of images
