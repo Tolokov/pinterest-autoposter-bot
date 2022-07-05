@@ -1,0 +1,4 @@
+If you want to publish papers on a new board, then you will need to specify a new board id
+or board_id. To do this, in the browser Chrome, go to the developer panel by pressing F12,
+find the Network tab, in the panels that will open, in the search box, enter the query board_id and copy
+long number.
